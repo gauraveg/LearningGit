@@ -4,4 +4,8 @@ also learn github
 adding new space
 used the fork feature of github.
 i am enjoying git.
+<<<<<<< Updated upstream
 Hey from github site.
+=======
+i am again enjoying git with stash
+>>>>>>> Stashed changes
